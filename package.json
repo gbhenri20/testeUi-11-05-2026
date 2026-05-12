@@ -1,0 +1,27 @@
+{
+  "name": "testeui-11-05-2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbhenri20/testeUi-11-05-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gbhenri20/testeUi-11-05-2026/issues"
+  },
+  "homepage": "https://github.com/gbhenri20/testeUi-11-05-2026#readme",
+  "dependencies": {
+    "chai": "^6.2.2",
+    "chromedriver": "^148.0.2",
+    "mocha": "^11.7.5",
+    "selenium-webdriver": "^4.43.0"
+  }
+}
